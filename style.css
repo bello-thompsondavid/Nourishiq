@@ -488,7 +488,7 @@ h4 {
   padding: var(--space-6);
   border-radius: var(--radius-2xl);
   box-shadow: var(--shadow-lg);
-  margin-top: -100px;
+ 
   text-align: center;
   transition: var(--transition);
   border: 1px solid var(--border-color);
